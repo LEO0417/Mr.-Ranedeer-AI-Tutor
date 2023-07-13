@@ -4,6 +4,8 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
+Join the Mr. Ranedeer community: [https://twitter.com/i/communities/1677733946946383879](https://twitter.com/i/communities/1677733946946383879)
+
 Email: Ranedeer@protonmail.com
 
 **Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
@@ -70,16 +72,18 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d](https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d)
+URL: [https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
 
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
+
+*Also Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
 
 _If you are using the ChatGPT web interface, API costs will not apply._
 
